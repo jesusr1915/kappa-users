@@ -16,6 +16,10 @@
     {
       "id": "2d18a3514979f182",
       "device": "Android TV Sal"
+    },
+    {
+      "id": "id-test",
+      "device": "device-test"
     }
   ]
 }
