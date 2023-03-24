@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "15000ff8022107f8",
+      "device": "Xiomi Tlahuac"
+    },
+
+    {
+      "id": "1b2d44b79df7e783",
+      "device": "Celular Gus"
+    },
+    {
+      "id": "81f3786ef5c0eb53",
+      "device": "Android TV Vanessa"
+    },
+    {
+      "id": "2d18a3514979f182",
+      "device": "Android TV Sala"
+    }
+  ]
+}
