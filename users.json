@@ -16,6 +16,14 @@
     {
       "id": "2d18a3514979f182",
       "device": "Android TV Sala"
+    },
+    {
+      "id": "e128e7ebd4a2bd72",
+      "device": "Samsung Ivan"
+    },
+    {
+      "id": "c5d30d2a55e78dff",
+      "device": "Google TV Ivan"
     }
   ]
 }
